@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Nodes>
+	<Size> 9 </Size>
+	<Labels> A,B,C,D,E,F,G,H,I </Labels>
+	<Values> 5,3,4,4,1,3,2,4,5 </Values>
+	<Edges>
+		<Edge> A,B </Edge>
+		<Edge> A,C </Edge>
+		<Edge> B,E </Edge>
+		<Edge> B,F </Edge>
+		<Edge> C,G </Edge>
+		<Edge> C,H </Edge>
+		<Edge> G,I </Edge>
+	</Edges>
+	<StartNode> A </StartNode>
+	<EndNode> I </EndNode>
+	<BeamSize> 2 </BeamSize>
+</Nodes>
+
+	
