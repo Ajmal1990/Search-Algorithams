@@ -1,4 +1,4 @@
 Search-Algorithams
 ==================
 
-Implementation of Heuristic search algorithms in java
+Implementation of Heuristic search algorithms in Java
